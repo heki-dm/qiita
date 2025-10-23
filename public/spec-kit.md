@@ -2,7 +2,7 @@
 title: Spec Kitを使ってみた
 tags:
   - "GitHub"
-  - "Spec Kit"
+  - "SpecKit"
   - "使用駆動開発"
 private: false
 updated_at: ""
