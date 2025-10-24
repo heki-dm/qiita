@@ -3,7 +3,7 @@ title: Spec Kitを使ってみた
 tags:
   - GitHub
   - SpecKit
-  - 使用駆動開発
+  - 仕様駆動開発
 private: false
 updated_at: '2025-10-24T05:02:31+09:00'
 id: 10cee52a1b583ea981d5
