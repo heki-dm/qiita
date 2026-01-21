@@ -4,7 +4,6 @@ tags:
   - MISE-EN-PLACE
 private: false
 updated_at: "2026-01-17T12:00:00+09:00"
-id: 20abc34d5e678fgh9012
 organization_url_name: null
 slide: false
 ignorePublish: false
