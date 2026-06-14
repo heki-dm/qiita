@@ -12,7 +12,7 @@ body = """
     ## [Unreleased]
 {% endif %}\
 {% for commit in commits %}
-    - {{ commit.message | upper_first }} ({{ commit.id | truncate(length=7, end="") }})
+    - {{ commit.message | split(pat="\n") | first | trim | upper_first }} ({{ commit.id | truncate(length=7, end="") }})
 {% endfor %}
 """
 # Remove leading and trailing whitespaces from the changelog's body.
