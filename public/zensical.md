@@ -8,7 +8,7 @@ tags:
   - Rust
 private: false
 updated_at: "2026-06-13T12:00:00+09:00"
-id: ""
+id: "a7e37c13a0b677709851"
 organization_url_name: null
 slide: false
 ignorePublish: false

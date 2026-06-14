@@ -54,8 +54,10 @@ APM 自体は AI エージェントのランタイムではなく、「各ツー
 公式の手順に従い、インストールスクリプトを使ってバイナリをインストールします。
 
 ```bash
-curl -sSL https://aka.ms/apm-unix | sh
+curl -sSL https://raw.githubusercontent.com/microsoft/apm/main/install.sh | sh
 ```
+
+公式サイトでは短縮URL (`https://aka.ms/apm-unix`) が案内されていますが、実体は上記の GitHub 上のインストールスクリプトです。
 
 実行すると、OS・アーキテクチャを自動判別して GitHub Releases から最新バイナリを取得し、`/usr/local/bin` に配置してくれます。
 
