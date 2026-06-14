@@ -8,7 +8,7 @@ tags:
   - MCP
 private: false
 updated_at: "2026-06-14T12:00:00+09:00"
-id: ""
+id: "0fa51870b9b3da303ddf"
 organization_url_name: null
 slide: false
 ignorePublish: false
