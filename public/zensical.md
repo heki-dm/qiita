@@ -7,7 +7,7 @@ tags:
   - Documentation
   - Rust
 private: false
-updated_at: "2026-06-13T12:00:00+09:00"
+updated_at: "2026-06-14T15:10:00+09:00"
 id: "a7e37c13a0b677709851"
 organization_url_name: null
 slide: false
