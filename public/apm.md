@@ -2,13 +2,13 @@
 title: 「npm for agent context」- Microsoft製の Agent Package Manager (APM) を試してみた
 tags:
   - AI
-  - ClaudeCode
-  - GitHubCopilot
-  - APM
+  - apm
   - MCP
+  - GitHubCopilot
+  - ClaudeCode
 private: false
-updated_at: "2026-06-14T15:12:00+09:00"
-id: "0fa51870b9b3da303ddf"
+updated_at: '2026-06-14T15:10:05+09:00'
+id: 0fa51870b9b3da303ddf
 organization_url_name: null
 slide: false
 ignorePublish: false

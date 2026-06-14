@@ -1,14 +1,14 @@
 ---
 title: Material for MkDocsチームが作る新しい静的サイトジェネレーター「Zensical」を試してみた
 tags:
-  - MkDocs
-  - Zensical
-  - StaticSiteGenerator
-  - Documentation
   - Rust
+  - documentation
+  - MkDocs
+  - StaticSiteGenerator
+  - Zensical
 private: false
-updated_at: "2026-06-14T15:10:00+09:00"
-id: "a7e37c13a0b677709851"
+updated_at: '2026-06-14T15:10:05+09:00'
+id: a7e37c13a0b677709851
 organization_url_name: null
 slide: false
 ignorePublish: false
