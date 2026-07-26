@@ -8,6 +8,8 @@ id: fc7cc93c0400290c49fd
 organization_url_name: null
 slide: false
 ignorePublish: false
+posting_campaign_uuid: null
+agreed_posting_campaign_term: false
 ---
 
 ## 導入のきっかけ

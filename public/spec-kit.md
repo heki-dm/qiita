@@ -10,6 +10,8 @@ id: 10cee52a1b583ea981d5
 organization_url_name: null
 slide: false
 ignorePublish: false
+posting_campaign_uuid: null
+agreed_posting_campaign_term: false
 ---
 
 ## Spec Kit とは
