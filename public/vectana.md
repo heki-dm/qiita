@@ -7,7 +7,7 @@ tags:
   - 脆弱性
   - OSS
 private: false
-updated_at: '2026-11-01T20:09:38+09:00'
+updated_at: '2026-11-01T20:13:18+09:00'
 id: e2572853d432380c9a39
 organization_url_name: null
 slide: false
