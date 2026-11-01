@@ -1,0 +1,6 @@
+[tools]
+node = "26"
+
+[tasks.preview]
+description = "Qiita CLI のプレビューサーバーを起動する（http://localhost:8888）"
+run = "npx qiita preview"
