@@ -3,12 +3,12 @@ title: 依存パッケージの脆弱性とEOLをまとめて監視する「Vect
 tags:
   - FastAPI
   - Next.js
-  - OSV
+  - OSv
   - 脆弱性
   - OSS
 private: false
-updated_at: ""
-id: null
+updated_at: '2026-11-01T20:09:38+09:00'
+id: e2572853d432380c9a39
 organization_url_name: null
 slide: false
 ignorePublish: false
